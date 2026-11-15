@@ -44,4 +44,8 @@ coverage/
 .nyc_output/
 
 # AI Agents specific files
-.nessy/*
+.qwen/
+
+# .NET tools
+tools/**/bin/
+tools/**/obj/
